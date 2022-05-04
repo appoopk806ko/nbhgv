@@ -1,0 +1,14 @@
+{
+    "name": "ann",
+    "description": "esff",
+    "logo":"hfd",
+    "keywords": ["fgdgr"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网�?> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/appoopk806ko/nbhgv",
+    "stack": "container"
+}
