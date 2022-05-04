@@ -1,11 +1,11 @@
 {
-    "name": "qann",
-    "description": "esff",
-    "logo":"hfd",
-    "keywords": ["fgdgr"],
+    "name": "qaws",
+    "description": "zx",
+    "logo":"cv",
+    "keywords": ["ds"],
     "env": {
         "UUID": {
-            "description": "Xray UUID,éšæœºç”Ÿæˆuuidçš„ç½‘ç«?> (https://www.uuidgenerator.net/) ",
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
             "required": true        
         }
     },
